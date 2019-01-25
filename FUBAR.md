@@ -12,3 +12,5 @@ This is what Bob & Carol did on Bob's computer when working on the first feature
 
 #### Why did Snoop Dog buy and umbrella? *Fo'drizzle!*
 
+Why did the picture go to jail?
+It was framed.
